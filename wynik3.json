@@ -1,0 +1,122 @@
+﻿[
+  {
+    "moviesDirectors": {
+"identity": 108,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "Tom Tykwer"
+      }
+    }
+  },
+  {
+    "moviesDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "Lana Wachowski"
+      }
+    }
+  },
+  {
+    "moviesDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Andy Wachowski"
+      }
+    }
+  },
+  {
+    "moviesDirectors": {
+"identity": 25,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "James Marshall"
+      }
+    }
+  },
+  {
+    "moviesDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "Lana Wachowski"
+      }
+    }
+  },
+  {
+    "moviesDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Andy Wachowski"
+      }
+    }
+  },
+  {
+    "moviesDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "Lana Wachowski"
+      }
+    }
+  },
+  {
+    "moviesDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Andy Wachowski"
+      }
+    }
+  },
+  {
+    "moviesDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "Lana Wachowski"
+      }
+    }
+  },
+  {
+    "moviesDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Andy Wachowski"
+      }
+    }
+  }
+]
